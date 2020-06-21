@@ -23,10 +23,10 @@ CNN : Convolutional Nerual Network
 - Input Size : 224 * 224
 
 ### Data
-![](./img/img_0.jpg)
+![](./img/img_0.bmp)
 
 Augmented Images :
-![](./img/img_1.jpg)
+![](./img/img_1.bmp)
 
 ### Training
 - Train Data Set : About 8700 Augmented RGB Images
@@ -36,5 +36,5 @@ Augmented Images :
 - Taken Time : about 100 min
 
 ### Graph
-![](./img/img_2.jpg)
-![](./img/img_3.jpg)
+![](./img/img_2.bmp)
+![](./img/img_3.bmp)
